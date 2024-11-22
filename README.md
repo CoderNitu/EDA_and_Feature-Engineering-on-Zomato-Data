@@ -5,3 +5,12 @@ Analyze the Zomato dataset by performing EDA and Feature Engineering using Pytho
 ## EDA (Exploratory Data Analysis):
 
 A statistical method that uses data visualization and other techniques to analyze data sets and summarize their main characteristics. EDA is an open-ended approach that allows analysts to identify trends, validate data, and generate hypotheses. The main purpose of EDA is to help look at data before making any assumptions. It can help identify obvious errors, better understand patterns within the data, detect outliers or uncommon events, and find interesting relations among the variables.
+
+## Libraries used:
+
+1. Pandas
+2. Matplotlib
+3. Seaborn
+4. Scikit learn 
+
+
